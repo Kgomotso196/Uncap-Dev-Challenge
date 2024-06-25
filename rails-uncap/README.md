@@ -1,1 +1,1 @@
-<h1>In this README, I will explain the purpose and usage of the contents in this Rails App.</h1>
+<h1><img src="./terminal.png"></h1>

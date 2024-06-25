@@ -15,7 +15,7 @@ def return_first_integer(input)
     end
   end
 
-# puts return_first_integer(2)            # -> 2
-# puts return_first_integer("3")          # -> 3
-# puts return_first_integer("Score: 4")   # -> 4
-# puts return_first_integer("I would rate it a 5.") # -> 5
+puts return_first_integer(2)            # -> 2
+puts return_first_integer("3")          # -> 3
+puts return_first_integer("Score: 4")   # -> 4
+puts return_first_integer("I would rate it a 5.") # -> 5

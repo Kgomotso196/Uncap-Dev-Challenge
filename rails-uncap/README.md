@@ -1,1 +1,2 @@
-<h1><img src="./terminal.png"></h1>
+
+...

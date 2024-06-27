@@ -1,1 +1,3 @@
-<h1><img src="./terminal.png"></h1>
+# To run the RSpec tests, use the `rspec` command followed by the name of the spec file (`app_spec.rb` in this case):
+
+- `rspec app_spec.rb`

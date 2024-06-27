@@ -7,15 +7,17 @@ def return_first_integer(input)
     match_data = input.match(/(\d+)/)
   
     # If a match is found, convert it to an integer and return...
-    if match_data
-      return match_data[1].to_i
-    else
-      # If no match is found, return nil.
-      return nil
-    end
+    # if match_data
+    #   return match_data[1].to_i
+    # else
+    #   # If no match is found, return nil.
+    #   return nil
+    # end
+    match_data ? match_data[1].to_i : nil
   end
 
 puts return_first_integer(2)            # -> 2
 puts return_first_integer("3")          # -> 3
 puts return_first_integer("Score: 4")   # -> 4
 puts return_first_integer("I would rate it a 5.") # -> 5
+puts return_first_integer("we have 2 annd 5") # -> 5

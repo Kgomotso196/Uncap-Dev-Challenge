@@ -10,3 +10,10 @@ Here's a walk-through video demo for each challenge:
 
 Here's a deployed/demo link for Question 2 - React:
 - [Agreement](https://troos-uncap.netlify.app/) ✈️
+
+
+Actual paths of each question:
+1. [Question1](https://github.com/Kgomotso196/Uncap-Dev-Challenge/blob/question1/rails-uncap/app.rb)
+2. [Question2](https://github.com/Kgomotso196/Uncap-Dev-Challenge/tree/question2/rails-uncap/app/models)
+3. [Question3](https://github.com/Kgomotso196/Uncap-Dev-Challenge/tree/question3/react-uncap/src)
+4. [Bonus Question](https://github.com/Kgomotso196/Uncap-Dev-Challenge/blob/bonus-question-rspec/rails-uncap/app_spec.rb)

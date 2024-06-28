@@ -8,7 +8,7 @@
 3. <a href="https://drive.google.com/file/d/1l3pajCuqOQ_7lOMR4A7alI0xuZrnEWxS/view?usp=sharing" target="_blank">Question3</a>
 4. <a href="https://drive.google.com/file/d/1ysdO6YgsbBpHjhUuB1Lf6Zofr8U_tudg/view?usp=sharing" target="_blank">Bonus Question</a>
 
-### Here's a deployed/demo link for Question 2 - React:
+### Here's a deployed/demo link for Question 3 - React:
 - <a href="https://troos-uncap.netlify.app/" target="_blank">Agreement</a> ✈️
 
 ### Actual paths of each question:
